@@ -1,0 +1,10 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Cookie: v=0; cookie2=1b6efc49e2f899d0bb0d855efdf474da; _tb_token_=738e7fb8b5d95; cna=etYbEk1StDACAWViJrgMIpxw; thw=cn; t=a205e1b643c9fffecb5cbfae2b767664; tracknick=hunterd0116; dnk=hunterd0116; tg=0; enc=UNtoW%2BQ0ScIB%2BYrKXwi51I%2F31j7APK2FKTqIzhfGmlLXIMswA5lPrmiqhChOmcFfdl9jieUL%2BJGnbqgcR%2FNjJA%3D%3D; hng=CN%7Czh-CN%7CCNY%7C156; unb=44341965; sg=658; _l_g_=Ug%3D%3D; skt=21ec2e5d2063f765; cookie1=URn5%2FHWcWCfumiTe%2F7o3CsYrB4YMAwYhrmJbK9QssX4%3D; csg=69adf92f; uc3=vt3=F8dByRmpFIYSjz%2Bktj8%3D&id2=Vyh%2FYBGbJGc%3D&nk2=CzhD91kKh1UEgOk%3D&lg2=VFC%2FuZ9ayeYq2g%3D%3D; existShop=MTU0MDEwNjM1OA%3D%3D; lgc=hunterd0116; _cc_=V32FPkk%2Fhw%3D%3D; _nk_=hunterd0116; cookie17=Vyh%2FYBGbJGc%3D; mt=ci=10_1; uc1=cookie14=UoTYNkZCkkexbg%3D%3D&lng=zh_CN&cookie16=WqG3DMC9UpAPBHGz5QBErFxlCA%3D%3D&existShop=false&cookie21=W5iHLLyFe3xm&tag=10&cookie15=VT5L2FSpMGV7TQ%3D%3D&pas=0; isg=BO3tvsCHSoAuSS67WTFKoi8i_I-n4iF1nAQMQS_yKQTzpg1Y95ox7Dt0lXpADTnU
+Host: www.taobao.com
+If-None-Match: W/"2a5a-1602480f459"
+Referer: https://www.taobao.com/?spm=a230r.1.0.0.4a215268tW9jEW
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
